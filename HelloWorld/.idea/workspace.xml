@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c597e858-ff93-44c8-b6ad-25d18c97c46e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XaQ6M1x0qvr3ShWnhQ8NQEal8U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c597e858-ff93-44c8-b6ad-25d18c97c46e" name="Default Changelist" comment="" />
+      <created>1581281548827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581281548827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="791" key="#Notifications" timestamp="1581291258440">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="536" y="791" key="#Notifications/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581291258440" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1581281826690">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581281826690" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1581281826690">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581281826690" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1581281826690">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581281826690" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1581281826690">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581281826690" />
+    <state x="445" y="775" key="SettingsEditor" timestamp="1581291250872">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="445" y="775" key="SettingsEditor/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581291250872" />
+    <state x="689" y="898" key="com.intellij.ide.util.TipDialog" timestamp="1581291148842">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="689" y="898" key="com.intellij.ide.util.TipDialog/-1824.597.1824.986/0.0.3840.2120@0.0.3840.2120" timestamp="1581291148842" />
+  </component>
+</project>
